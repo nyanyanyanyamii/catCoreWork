@@ -4,6 +4,7 @@
 .. toctree::
    :maxdepth: 1
 
+   礼品卡
    限位器
    峡谷之中
    卡住
